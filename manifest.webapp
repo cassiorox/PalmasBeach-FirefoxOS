@@ -4,7 +4,7 @@
 	"launch_path": "/index.html",
 	"developer": {
 		"name": "Cássio Lopes, George Mendes, Wesley Gomes e Filipe Damasceno",
-		"url": "www.catolica-to.edu.br"
+		"url": "http://www.catolica-to.edu.br"
 	},
 	"icons": {
 		"60": "/images/icons/icon60.png",
@@ -13,7 +13,5 @@
 	"fullscreen": "true",
 	"default_locale": "pt-BR",
 	"orientation": ["portrait"],
-	"type": "privileged",
-	  "installs_allowed_from": ["*"],
-	  "version": "1.1"
+	"version": "1.1"
 }
